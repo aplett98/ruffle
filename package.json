@@ -1,0 +1,32 @@
+{
+  "name": "ruffle",
+  "version": "1.0.0",
+  "description": "Ruffle: a word game! Rearrange and shuffle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplett98/ruffle.git"
+  },
+  "keywords": [
+    "word",
+    "game",
+    "rearrange",
+    "shuffle"
+  ],
+  "author": "aplett98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aplett98/ruffle/issues"
+  },
+  "homepage": "https://github.com/aplett98/ruffle#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "miniplex": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12"
+  }
+}

@@ -1,3 +1,4 @@
-export * from './puzzle';
-export * from './tile';
-export * from './word';
+export * from './entity';
+export * from './game';
+export * from './grid';
+export * from './letter';
